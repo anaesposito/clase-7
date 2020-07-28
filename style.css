@@ -1,0 +1,14 @@
+.contenedor {
+  background-color: pink;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.tarjeta {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 2px solid black;
+  justify-content: fl;
+  align-content: ;
+}
